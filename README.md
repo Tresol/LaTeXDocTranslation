@@ -1,2 +1,3 @@
-# LaTeXDocTranslation
-Translate LaTeX docs into Simplified Chinese
+### $\LaTeX$文档翻译
+
+上传一些常用宏包文档的简体中文翻译。
